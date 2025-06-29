@@ -1,4 +1,3 @@
-// v2
 import React from 'react';
 import { motion } from 'framer-motion';
 
